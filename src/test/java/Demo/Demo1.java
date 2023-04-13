@@ -9,6 +9,7 @@ public void demo1()
 {
 	System.out.println("its demo1");
 	System.out.println("its demo1.1");
+	System.out.println("its demo 1.2");
 }
 	
 }
